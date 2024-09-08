@@ -85,13 +85,13 @@ hr {
 
 @media only screen and (max-width: 800px) {
   html {
-    font-size: 12px;
+    font-size: 11px;
   }
   #menu {
     width: 90%;
   }
   .drink {
-    width: 84%;
+    width: 80%;
   }
   #logo {
     width: 150px;
