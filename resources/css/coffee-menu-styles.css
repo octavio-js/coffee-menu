@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background-color: rgb(190, 190, 190);
+  background: linear-gradient(135deg,#E5E5E5, #BCC6CC, #A0A8B0);
   color: #333;
 }
 
@@ -77,21 +77,21 @@ hr {
 /* Footer */
 
 #info {
-  background-color: #e5e5e5;
-  color: #333;
+  background-color: black;
+  color: #e5e5e5;
 }
 
 /* Media queries */
 
 @media only screen and (max-width: 800px) {
   html {
-    font-size: 12px;
+    font-size: 11px;
   }
   #menu {
     width: 90%;
   }
   .drink {
-    width: 84%;
+    width: 80%;
   }
   #logo {
     width: 150px;
